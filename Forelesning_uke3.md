@@ -4,7 +4,6 @@
 import nbconvert
 ```
 
-![title](python-3.svg)
 
 # Uke 3. 
 
