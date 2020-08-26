@@ -18,7 +18,7 @@ Denne uken vil vi gå igjennom:
 
 Python er et "høynivå" objektorientert dynamisk programeringsspråk. Laget av matematikkeren Guido van Rossum i 1989, og ga språket navnet "Python" fordi han var fan av Monthy python. Språket er i hovedsak bygget på C og er et av de mest brukte programeringsspråkene i dag.
 
-# Hvorfor programere i Python?
+# Hvorfor programmere i Python?
     - Det går fort å utføre store komplekse oppgaver
     - Veldig enkelt å bygge egne bibloteker
     - Enkelt lesbar kode. Nesten som å skrive pseudokode i C  
